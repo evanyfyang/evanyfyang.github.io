@@ -2,7 +2,7 @@
 title: "Boundary-Driven Table-Filling for Aspect Sentiment Triplet Extraction"
 collection: publications
 permalink: /publication/EMNLP2022_BDTF
-excerpt: 'Yice Zhang*, Yifan Yang*(co-first author), Yihui Li, Bin Liang, Shiwei Chen, Yixue Dang, Min Yang, Ruifeng Xu'
+excerpt: 'Yice Zhang, **Yifan Yang**(co-first author), Yihui Li, Bin Liang, Shiwei Chen, Yixue Dang, Min Yang, Ruifeng Xu'
 date: 2022-12-07
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2022.emnlp-main.435/'
