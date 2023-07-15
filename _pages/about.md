@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Yifan Yang's home on the web!"
+title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
