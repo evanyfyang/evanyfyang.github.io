@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science and Tecnology, Harbin Institute of Technology, 2020
+* M.Sc. in Computer Science, Harbin Institute of Technology (Shenzhen), 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2019: Backend developer
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -41,19 +40,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
