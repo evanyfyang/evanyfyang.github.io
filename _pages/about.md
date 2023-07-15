@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc student at the Department of Computer Science and Technology at Harbin Institute of Technology (Shenzhen). My researches focus on sentiment analysis and natural language processing. 
+I am currently a MSc student at the Department of Computer Science and Technology at Harbin Institute of Technology (Shenzhen). My research focuses on sentiment analysis, natural language processing, and deep learning. 
