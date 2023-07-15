@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifan Yang"
 title_separator          : "-"
 name                     : &name "Yifan Yang"
-description              : &description "MSc student of Harbin Institute of Technology (Shenzhen)"
+description              : &description "MSc student at Harbin Institute of Technology (Shenzhen)"
 url                      : https://evanyfyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evanyfyang/evanyfyang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yifan Yang"
   avatar           : "profile.png"
-  bio              : "MSc student of Harbin Institute of Technology (Shenzhen)"
+  bio              : "MSc student at Harbin Institute of Technology (Shenzhen)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
